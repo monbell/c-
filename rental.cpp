@@ -1,6 +1,5 @@
 // Monica Bellare
 // Code for Project 2
-// do not copy
 
 #include <iostream>
 #include <iomanip>
